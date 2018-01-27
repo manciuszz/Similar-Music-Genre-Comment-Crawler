@@ -7,3 +7,4 @@ TODO // Note to myself in order to achieve this goal:
   - Read up more http://www.nltk.org/book/ch06.html
   - Moar -> https://www.codeutsava.in/blog/70
   - Digging deepah -> https://github.com/josephmisiti/awesome-machine-learning
+  - https://github.com/rasbt/pattern_classification
